@@ -71,7 +71,7 @@ prime(number);
 
 
 
-function isPrime(){
+function prime(){
     
 const number = parseInt(prompt("Enter a positive number: "));
 let isPrime = true;
